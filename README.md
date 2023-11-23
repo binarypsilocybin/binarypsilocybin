@@ -1,10 +1,13 @@
-### Hi there 👋
-My name is Rogério, I am a Portuguese front-end developer living in Lisbon, Portugal.
+### Hi
 
-When I am not coding you can catch me running.
+I am thing with a curious mind and I am hungry to learn.
+Currently working as a frontend engineer and still learning and building things,
 
-- I am currently learning Next.js
-- I am currently building projects at Frontend Mentors
+- Currently curious about cliodynamics and data graph visualization.
+- Currently learning Next.js and building a ITSM service.
+- Currently building projects at Frontend Mentors. 
+- Currently training for 40k marathon.
+- 💬 Ask me about anthropology and history.
 
 <!--
 **binarypsilocybin/binarypsilocybin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
