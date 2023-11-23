@@ -1,4 +1,4 @@
-### Hi
+### Hi there
 
 I am thing with a curious mind and I am hungry to learn.
 Currently working as a frontend engineer and still learning and building things,
