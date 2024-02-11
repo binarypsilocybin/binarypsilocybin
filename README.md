@@ -1,9 +1,9 @@
 ### Hi there
 
-I am thing with a curious mind and I am hungry to learn.
+I am a thing with a curious mind and I am hungry to learn.
 Currently working as a frontend engineer and still learning and building things,
 
-- Currently curious about cliodynamics and data graph visualization.
+- Currently curious about data graph visualization.
 - Currently learning Next.js and building a ITSM service.
 - Currently building projects at Frontend Mentors. 
 - Currently training for 40k marathon.
