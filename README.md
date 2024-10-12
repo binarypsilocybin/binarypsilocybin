@@ -4,10 +4,11 @@ I am a curious mind and I am hungry to learn.
 Currently working as a frontend engineer and still learning and building things,
 
 - Currently curious about data graph visualization
-- Currently learning Node, Next.JS and D3
+- Currently learning Node, GraphQL, Next.JS and D3
 - Currently building a ITSM service
 - Currently building projects at Frontend Mentors
 - Currently training for 40k marathon
+- Improving my chess moves
 
 <!--
 **binarypsilocybin/binarypsilocybin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
