@@ -11,8 +11,6 @@ I'm a passionate and curious frontend engineer with an eagerness to learn and gr
     Architecture Patterns – Learning best practices for building maintainable and scalable applications.
     Design Systems – Crafting cohesive and reusable design systems for better consistency and efficiency.
     Product Lifecycle – Understanding the full cycle of a product, from ideation to development and beyond.
-    
-.
 
 
 
