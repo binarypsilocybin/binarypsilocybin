@@ -11,9 +11,8 @@ I'm a passionate and curious frontend engineer with an eagerness to learn and gr
     Architecture Patterns – Learning best practices for building maintainable and scalable applications.
     Design Systems – Crafting cohesive and reusable design systems for better consistency and efficiency.
     Product Lifecycle – Understanding the full cycle of a product, from ideation to development and beyond.
-🌱 Personal Life:
     
-    When I’m not coding, you can find me studying and playing chess, running on trails, or reading about history. I love the mental challenge of chess, the peace of trail running, and diving into the stories of the past.
+.
 
 
 
