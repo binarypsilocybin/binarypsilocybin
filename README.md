@@ -1,14 +1,13 @@
-### Hi there
+I'm a passionate and curious frontend engineer with an eagerness to learn and grow. I'm always exploring new technologies, building projects, and pushing the boundaries of what I can create.
 
-I am a curious mind and I am hungry to learn.
-Currently working as a frontend engineer and still learning and building things,
+🚀 Currently working with:
 
-- Currently curious about data graph visualization
-- Currently learning Node, GraphQL, Next.JS and D3
-- Currently building a ITSM service
-- Currently building projects at Frontend Mentors
-- Currently training for 40k marathon
-- Improving my chess moves
+    Three.js – Diving deep into 3D web development and interactive graphics.
+    Node, GraphQL, Next.js, and D3– Expanding my backend skills and data visualization capabilities.
+
+🔍 On my radar:
+Always looking for the next challenge, whether it's experimenting with new frameworks, contributing to open source, or building projects that push the limits of the web.
+
 
 <!--
 **binarypsilocybin/binarypsilocybin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
